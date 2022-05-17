@@ -20,3 +20,4 @@
   ![Snake animation](https://github.com/prissycorrea/prissycorrea/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+.
