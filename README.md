@@ -1,13 +1,13 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp;About me</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/">Estacio</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedora Full Stack na <a href="https://www.avanade.com/pt-br">Avanade</a>.
-- 🌱 &nbsp; Aprendendo mais sobre React E NodeJS.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Systems Analysis and Development at <a href="https://estacio.br/">Estacio</a>.
+- 💼 &nbsp; Working as a Full Stack Developer at <a href="https://www.avanade.com/pt-br">Avanade</a>.
+- 🌱 &nbsp; Learning more about React And NodeJS.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -17,7 +17,7 @@
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
   ![SAP UI5](https://img.shields.io/badge/-SAP%20UI5-333333?style=flat&logo=sap)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -28,7 +28,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -44,7 +44,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: /priscilla-correa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-correa/)
 [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillacdelfino@gmail.com)
