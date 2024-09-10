@@ -1,9 +1,9 @@
 <h3> :woman: &nbsp;About me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Systems Analysis and Development at <a href="https://estacio.br/">Estacio</a>.
-- 💼 &nbsp; Working as a Full Stack Developer at <a href="https://www.avanade.com/pt-br">Avanade</a>.
-- 🌱 &nbsp; Learning more about React And NodeJS.
+- 🎓 &nbsp; Graduated in Systems Analysis and Development.
+- 💼 &nbsp; Working as a Front End Developer at <a href="https://www.avanade.com/pt-br">Avanade</a>.
+- 🌱 &nbsp; Learning more about React.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
