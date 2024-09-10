@@ -15,7 +15,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
-  ![SAP UI5](https://img.shields.io/badge/-SAP%20UI5-333333?style=flat&logo=sap)
 
 **Utilities**
 
