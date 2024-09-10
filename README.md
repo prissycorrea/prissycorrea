@@ -26,15 +26,12 @@
 
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=microsoft-azure)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-333333?style=flat&logo=microsoft-azure)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=007ACC)
 
