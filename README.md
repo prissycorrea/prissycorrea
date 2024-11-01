@@ -1,6 +1,6 @@
 <h3> :woman_technologist: &nbsp;About Me</h3>
 
-- 👩‍💻 &nbsp; Passionate about front-end development and creating impactful user experiences.
+- 👩‍💻 &nbsp; Passionate about front-end and mobile development and creating impactful user experiences.
 - 🎓 &nbsp; Technologist Degree in Systems Analysis and Development.
 - 💼 &nbsp; Currently working as a Front End Developer at <a href="https://www.avanade.com/pt-br">Avanade</a>.
 - 🌱 &nbsp; Continuously learning and improving, with a focus on React and modern front-end technologies.
@@ -12,11 +12,14 @@
 
 **Languages and Frameworks**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
