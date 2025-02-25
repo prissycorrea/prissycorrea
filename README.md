@@ -55,7 +55,7 @@
 <br/>
 
 <a href="https://github.com/prissycorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prissycorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prissycorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prissycorrea&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
@@ -67,3 +67,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillacdelfino@gmail.com)
 
 ##
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{prissycorrea}/count.svg" /></p> 
+  <br>
+</div>
