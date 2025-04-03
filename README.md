@@ -2,10 +2,9 @@
 
 - 👩‍💻 &nbsp; Passionate about front-end and mobile development and creating impactful user experiences.
 - 🎓 &nbsp; Technologist Degree in Systems Analysis and Development.
+- 📚 &nbsp; Currently pursuing a post-graduate degree in Front-End Engineering at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
 - 💼 &nbsp; Currently working as a Front End Developer at <a href="https://www.avanade.com/pt-br">Avanade</a>.
-- 🌱 &nbsp; Continuously learning and improving, with a focus on React and modern front-end technologies.
-- ⚡ &nbsp; Enthusiastic about clean code, responsive design, and accessibility.
-- 🚀 &nbsp; Always exploring new tools and technologies to improve my workflow and deliver better solutions.
+- 🌱 &nbsp; Continuously learning and improving, with a focus on React, mobile development, and modern front-end technologies.
 - 🌐 &nbsp; Check out my portfolio: <a href="https://cv-priscilla-correa.vercel.app/" target="_blank">cv-priscilla-correa.vercel.app</a>
 
 <h3> :rocket: &nbsp;Skills </h3>
