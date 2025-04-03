@@ -67,8 +67,3 @@
 
 ##
 
-<!-- Contador de Visitantes -->
-<div align="center">
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{prissycorrea}/count.svg" /></p> 
-  <br>
-</div>
