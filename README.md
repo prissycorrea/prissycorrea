@@ -9,7 +9,7 @@
 - 📚 &nbsp; Currently pursuing a post-graduate degree in Front-End Engineering at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.<br>
 - 💼 &nbsp; Front-End Developer at <a href="https://www.avanade.com/pt-br" target="_blank">Avanade</a>.<br>
 - 🌱 &nbsp; Always learning, currently focused on React, mobile development, and modern front-end technologies.<br>
-- 🌐 &nbsp; Portfolio: <a href="https://cv-priscilla-correa.vercel.app/" target="_blank">cv-priscilla-correa.vercel.app</a><br>
+- 🌐 &nbsp; Portfolio: <a href="https://prissycorrea.github.io/cv-priscilla-correa/" target="_blank">https://prissycorrea.github.io/cv-priscilla-correa/</a><br>
 
 ---
 
@@ -27,6 +27,8 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+![Phyton](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 
 **Platforms & Tools**
 
@@ -51,7 +53,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 
-**Languages**
+**Spoken Languages**
 
 ![English](https://img.shields.io/badge/-English%20(B1)-333333?style=flat&logo=google-translate)
 
